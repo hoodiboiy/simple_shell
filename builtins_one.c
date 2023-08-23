@@ -60,4 +60,3 @@ int builtin_cmds(int *i, char **argv, char *input, char *arv0, int *status)
 	}
 	return (1);
 }
-
